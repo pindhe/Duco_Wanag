@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Duco Wanag</string>
+    <string name="app_subtitle">Tasbiix &amp; Ducooyin</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_add_duco">Geli Duco</string>
+
+    <string name="section_my_duco">Ducooyinkayga</string>
+    <string name="label_read_count">Tirada aad akhriday</string>
+    <string name="label_total_count">Tirada guud</string>
+    <string name="label_target_format">Hadafka: %1$d / %2$d</string>
+    <string name="label_target_completed">Waad dhammeysay</string>
+    <string name="action_start">Bilow</string>
+    <string name="action_reset">Dib u bilow</string>
+    <string name="action_save">Kaydi</string>
+    <string name="action_cancel">Ka noqo</string>
+    <string name="action_delete">Tirtir</string>
+    <string name="action_edit">Wax ka beddel</string>
+    <string name="tap_to_increment">Guji si aad tirada u kordhiso</string>
+
+    <string name="empty_state_title">Wax duco ah wali ma gelin</string>
+    <string name="empty_state_subtitle">Ku dar ducadaada koowaad si aad u bilowdo tirinta tasbiixda iyo xusuusta Alle.</string>
+
+    <string name="add_duco_title">Duco cusub</string>
+    <string name="edit_duco_title">Wax ka beddel ducada</string>
+    <string name="field_duco_name_label">Magaca ducada</string>
+    <string name="field_duco_name_hint">Tusaale: Subxaanallaah ama Ducada Subaxda</string>
+    <string name="field_duco_text_label">Qoraalka ducada</string>
+    <string name="field_duco_text_hint">Halkan ku qor ducada (Carabi ama Soomaali)...</string>
+    <string name="field_target_label">Hadafka tirada (ikhtiyaari)</string>
+    <string name="field_target_hint">Tusaale: 33, 99, ama 100</string>
+
+    <string name="error_empty_title">Fadlan geli magaca ducada.</string>
+    <string name="error_empty_text">Fadlan geli qoraalka ducada.</string>
+    <string name="error_invalid_target">Hadafku waa inuu ka weyn yahay 0.</string>
+
+    <string name="dialog_reset_title">Dib u bilow tirada?</string>
+    <string name="dialog_reset_message">Ma hubtaa inaad dib u bilowdo tirada \"%1$s\"? Tiradu waxay ku noqon doontaa 0.</string>
+    <string name="dialog_delete_title">Tirtir ducada?</string>
+    <string name="dialog_delete_message">Ma hubtaa inaad tirtirto \"%1$s\"? Tirada u kaydsan way lumi doontaa.</string>
+
+    <string name="cd_toggle_theme">Beddel muuqaalka habeenka iyo maalinta</string>
+    <string name="cd_edit_duco">Wax ka beddel ducada</string>
+    <string name="cd_delete_duco">Tirtir ducada</string>
+    <string name="cd_tasbiix_button">Badhanka tirinta tasbiixda</string>
+    <string name="cd_empty_illustration">Sawirka bannaan ee ducooyinka</string>
+    <string name="label_created_on">La abuuray: %1$s</string>
+    <string name="label_selected_badge">La doortay</string>
+    <string name="label_preset_targets">Tirooyinka caanka ah:</string>
+
+    <string name="action_start_my_ducos">Bilow Ducooyinkayga</string>
+    <string name="action_stop_sequence">Jooji</string>
+    <string name="action_next_duco">Xigta</string>
+    <string name="sequence_active_label">Taxanaha Ducooyinka</string>
+    <string name="sequence_step_format">Ducada %1$d / %2$d</string>
+    <string name="sequence_lap_format">Wareeggan: %1$d / %2$d</string>
+    <string name="sequence_auto_next_notice">Waad dhammeysay! Waxaa loo gudbay: %1$s</string>
+    <string name="sequence_all_completed_title">Maashaallaah!</string>
+    <string name="sequence_all_completed_message">Dhammaan ducooyinkaagii (%1$d) waad dhammeysay.</string>
+    <string name="action_dismiss">Xidh</string>
+
+    <string name="add_duco_subtitle">Ku dar duco cusub ama ka dooro kuwa diyaarsan</string>
+    <string name="edit_duco_subtitle">Cusboonaysii magaca, qoraalka, ama hadafka ducada</string>
+    <string name="section_ready_templates">Ducooyin diyaar ah (Taabo si aad u buuxiso)</string>
+    <string name="section_live_preview">Muuqaalka horudhaca ah</string>
+    <string name="action_paste">Ku dheji</string>
+    <string name="action_clear_form">Nadiifi</string>
+    <string name="label_target_toggle">Hadaf tiro u samee</string>
+    <string name="label_unlimited_target">Tirada waa furan tahay (aan xad lahayn)</string>
+    <string name="badge_arabic_script">Carabi · Amiri</string>
+    <string name="badge_latin_script">Qoraal caadi ah</string>
+    <string name="preview_placeholder_title">Magaca ducadaada</string>
+    <string name="preview_placeholder_text">Qoraalka ducada ayaa halkan ka soo muuqan doona...</string>
+    <string name="label_preview_target">Hadafka</string>
+    <string name="label_preview_open">Furan</string>
+
+    <string name="streak_day_label">%1$d maalin</string>
+    <string name="cd_streak_badge">Taxanaha maalmaha joogtada ah: %1$d maalin</string>
+    <string name="streak_dialog_title">Joogteyntaada Maalinlaha ah</string>
+    <string name="streak_dialog_count">%1$d maalin oo xiriir ah</string>
+    <string name="streak_dialog_message">Maashaallaah! Maalin kasta oo aad app-kan ku soo gasho taleefankaagan, tirada maalmaha xiriirka ah way sii kordhaysaa.</string>
+
+    <string name="widget_description">Waxay shaashadda hore ku tusaysaa tiradaada Streak-ga iyo ducada hadda kuu taagan.</string>
+    <string name="widget_streak_label">Streak</string>
+    <string name="widget_empty_title">Wax duco ah ma jiro — taabo si aad u gasho</string>
+    <string name="widget_plus_one">+1</string>
+    <string name="widget_tap_count_cd">Kordhi tirada ducada</string>
+    <string name="action_pin_widget">Ku dar shaashadda hore (Widget)</string>
+</resources>

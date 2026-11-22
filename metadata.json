@@ -1,0 +1,6 @@
+{
+  "name": "Duco Wanag",
+  "description": "Duco Wanag — App casri ah oo Muslimiinta u fududeynaya kaydinta ducooyinka iyo tirinta tasbiixda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

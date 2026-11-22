@@ -1,0 +1,40 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Theme — Serene Devotion
+val DeepestEmerald = Color(0xFF004C22)
+val DeepEmerald = Color(0xFF166534)
+val ForestAccent = Color(0xFF15803D)
+val VibrantEmerald = Color(0xFF22C55E)
+val SoftSage = Color(0xFFD1E7D2)
+val SoftSageContainer = Color(0xFFCFE5D0)
+val WarmOffWhite = Color(0xFFF8FAF7)
+val PristineWhite = Color(0xFFFFFFFF)
+val SurfaceLowLight = Color(0xFFEFF5EF)
+val SurfaceMidLight = Color(0xFFE5EFE6)
+val SurfaceHighLight = Color(0xFFD9E7DA)
+val DarkCharcoal = Color(0xFF1F2937)
+val MutedForestText = Color(0xFF404940)
+val OutlineLight = Color(0xFF707A6F)
+val OutlineVariantLight = Color(0xFFBFC9BD)
+val ErrorLight = Color(0xFFBA1A1A)
+val ErrorContainerLight = Color(0xFFFFDAD6)
+val OnErrorContainerLight = Color(0xFF93000A)
+
+// Dark Theme — Night Sanctuary
+val DeepForestBg = Color(0xFF101814)
+val SurfaceLowDark = Color(0xFF15201A)
+val MossCharcoal = Color(0xFF1B2721)
+val SurfaceHighDark = Color(0xFF23332B)
+val RadiantMint = Color(0xFF34D399)
+val SoftMint = Color(0xFF8BD79B)
+val OnPrimaryDark = Color(0xFF00210B)
+val DarkEmeraldBorder = Color(0xFF1F382B)
+val CrispWhite = Color(0xFFF9FAFB)
+val MutedSlate = Color(0xFF9CA3AF)
+val OutlineDark = Color(0xFF345041)
+val ErrorDark = Color(0xFFFFB4AB)
+val OnErrorDark = Color(0xFF690005)
+val ErrorContainerDark = Color(0xFF93000A)
+val OnErrorContainerDark = Color(0xFFFFDAD6)
